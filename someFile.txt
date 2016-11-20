@@ -1,2 +1,6 @@
 Treść dodatkwoego pliku
+<<<<<<< HEAD
 abc
+=======
+123
+>>>>>>> 92360314a2ed4e600f91a13dbf5ef573cc38a0e3
