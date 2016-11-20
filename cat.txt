@@ -1,2 +1,6 @@
 Filemon
+<<<<<<< HEAD
 Klakier
+=======
+kot
+>>>>>>> Some changes in cat.txt
